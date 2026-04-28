@@ -43,7 +43,7 @@ When I’m not working with data, I enjoy sharing knowledge, exploring AI, and h
 #### Programming & Data Handling
 <p>
   <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Expert-217346?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
 </p>
 
 #### Machine Learning & Modeling
