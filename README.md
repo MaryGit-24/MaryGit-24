@@ -9,7 +9,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/udomary"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://marygit-24.github.io"><img src="https://img.shields.io/badge/Data-Portfolio-red?style=for-the-badge&logo=portfolio"></a>
+  <a href="https://marygit-24.github.io"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=portfolio"></a>
   <a href="mailto:udomary963@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 https://marygit-24.github.io/
