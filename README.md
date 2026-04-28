@@ -42,31 +42,31 @@ When I’m not working with data, I enjoy sharing knowledge, exploring AI, and h
 
 #### Programming & Data Handling
 <p>
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Advanced-F2C811?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/SQL-Expert-217346?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
 </p>
 
 #### Machine Learning & Modeling
 <p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-Intermediate-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-Learn Skill Badge">
-  <img src="https://img.shields.io/badge/Classification%20Models-Experienced-FF6B6B?style=flat" alt="Classification Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/K--Means%20Clustering-Intermediate-8A2BE2?style=flat" alt="K-Means Clustering Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Experienced-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/Model%20Evaluation-Experienced-4ECDC4?style=flat" alt="Model Evaluation Skill Badge">
-  <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-Intermediate-FFA07A?style=flat" alt="Hyperparameter Tuning Skill Badge">
+  <img src="https://img.shields.io/badge/Scikit--Learn-Intermediate-20B2AA?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-Learn Skill Badge">
+  <img src="https://img.shields.io/badge/Classification%20Models-Experienced-6A5ACD?style=flat" alt="Classification Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/K--Means%20Clustering-Intermediate-20B2AA?style=flat" alt="K-Means Clustering Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Experienced-6A5ACD?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/Model%20Evaluation-Experienced-6A5ACD?style=flat" alt="Model Evaluation Skill Badge">
+  <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-Intermediate-20B2AA?style=flat" alt="Hyperparameter Tuning Skill Badge">
 </p>
 
 #### Data Processing & Feature Engineering
 <p>
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Experienced-20B2AA?style=flat" alt="Data Cleaning Skill Badge">
-  <img src="https://img.shields.io/badge/Feature%20Engineering-Experienced-9370DB?style=flat" alt="Feature Engineering Skill Badge">
-  <img src="https://img.shields.io/badge/SMOTE-Intermediate-FF8C00?style=flat" alt="SMOTE Skill Badge">
-  <img src="https://img.shields.io/badge/Data%20Transformation-Experienced-708090?style=flat" alt="Data Transformation Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-Experienced-6A5ACD?style=flat" alt="Data Cleaning Skill Badge">
+  <img src="https://img.shields.io/badge/Feature%20Engineering-Experienced-6A5ACD?style=flat" alt="Feature Engineering Skill Badge">
+  <img src="https://img.shields.io/badge/SMOTE-Intermediate-20B2AA?style=flat" alt="SMOTE Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Transformation-Experienced-6A5ACD?style=flat" alt="Data Transformation Skill Badge">
 </p>
 
 #### Statistical & Analytical Techniques
 <p>
-  <img src="https://img.shields.io/badge/EDA-Experienced-00CED1?style=flat" alt="EDA Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Expert-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Advanced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/EDA-Experienced-6A5ACD?style=flat" alt="EDA Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Expert-217346?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Advanced-F2C811?style=flat" alt="A/B Testing Skill Badge">
 </p>
