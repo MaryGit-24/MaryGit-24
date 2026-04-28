@@ -21,14 +21,14 @@ When I’m not working with data, I enjoy sharing knowledge, exploring AI, and h
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [End-to-end healthcare predictive analysis, from data exploration to building machine learning models for outcome prediction.]  
-- **Project B:** [Waste classification model, training a machine learning model to categorize waste into plastic, glass, paper, and metal.]
-- **AI Outreach:** [Supporting AI-focused inter-school challenges, introducing secondary school students to AI concepts and building curiosity around technology.]
+- **Project A:** End-to-end healthcare predictive analysis, from data exploration to building machine learning models for outcome prediction.
+- **Project B:** Waste classification model, training a machine learning model to categorize waste into plastic, glass, paper, and metal.
+- **AI Outreach:** Supporting AI-focused inter-school challenges, introducing secondary school students to AI concepts and building curiosity around technology.
 
 ## 🌱 Currently Learning 
 
-- [AWS AI & ML.]
-- [Machine Learning for Healthcare (DataCamp).]
+- AWS AI & ML.
+- Machine Learning for Healthcare (DataCamp).
 
 ## 🛠️ Technical Skillset
 
