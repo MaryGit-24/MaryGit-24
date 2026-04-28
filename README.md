@@ -1,4 +1,4 @@
-## Hi there, I'm Udo Mary Imeabasi 👋
+## Hi there, I'm Udo Mary Imeabasi
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientiist;Machine+Learning;Data+Driven+Insights;Python+Developer;Predictive+Modeling" alt="Typing SVG" />
@@ -10,27 +10,27 @@
   <a href="mailto:udomary963@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## About Me 
 I’m a Data Scientist passionate about using data to uncover insights and build predictive solutions. I enjoy exploring data, asking the right questions, and turning complex datasets into meaningful patterns and outcomes.
 
 My focus is on machine learning, predictive modeling, and data analysis, using tools like Python, SQL, and Power BI to solve real-world problems and support better decision-making.
 
 When I’m not working with data, I enjoy sharing knowledge, exploring AI, and helping others understand what’s possible with data. I love the "aha!" moment when data challenges an assumption and reveals something unexpected.
 
-### [🏆 Check Out My Full Portfolio Website](https://marygit-24.github.io/)
+### [Check Out My Full Portfolio Website](https://marygit-24.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## What I'm Currently Working On 
 
 - **Project A:** End-to-end healthcare predictive analysis, from data exploration to building machine learning models for outcome prediction.
 - **Project B:** Waste classification model, training a machine learning model to categorize waste into plastic, glass, paper, and metal.
 - **AI Outreach:** Supporting AI-focused inter-school challenges, introducing secondary school students to AI concepts and building curiosity around technology.
 
-## 🌱 Currently Learning 
+## Currently Learning 
 
 - AWS AI & ML.
 - Machine Learning for Healthcare (DataCamp).
 
-## 🛠️ Technical Skillset
+## Technical Skillset
 
 
 #### Data Analysis & Visualization
