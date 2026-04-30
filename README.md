@@ -11,11 +11,15 @@
 </p>
 
 ## About Me 
-I’m a Data Scientist passionate about using data to uncover insights and build predictive solutions. I enjoy exploring data, asking the right questions, and turning complex datasets into meaningful patterns and outcomes.
+The day I understood that machine learning mirrors how I learn through patterns, iteration, and feedback was the day everything clicked and data stopped being abstract.
 
-My focus is on machine learning, predictive modeling, and data analysis, using tools like Python, SQL, and Power BI to solve real-world problems and support better decision-making.
+I’m a data scientist who uses data to solve real-world problems, not just analyze them. I approach every dataset with curiosity, asking why things happen and how they can be improved.
 
-When I’m not working with data, I enjoy sharing knowledge, exploring AI, and helping others understand what’s possible with data. I love the "aha!" moment when data challenges an assumption and reveals something unexpected.
+My work spans predictive modeling, machine learning, and data analysis, where I turn complex data into insights that support better decisions and meaningful outcomes.
+
+From predicting patient no-shows in healthcare systems to building models for waste classification and analyzing financial data for customer insights, I focus on creating solutions that have real impact.
+
+When I’m not working with data, I’m exploring AI, sharing knowledge, and helping others discover what’s possible with data. I enjoy the moment when data challenges an assumption and reveals something unexpected.
 
 ### [Check Out My Full Portfolio Website](https://marygit-24.github.io/)
       
